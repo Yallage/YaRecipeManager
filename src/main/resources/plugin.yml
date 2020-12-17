@@ -1,0 +1,9 @@
+name: YaRecipeManager
+version: ${project.version}
+main: com.nanokylin.mc.yarecipemanager.YaRecipeManager
+api-version: 1.16
+prefix: YaRecipeManager
+load: STARTUP
+authors: [Hanbings]
+description: YaRecipeManager
+website: blog.nanokylin.com
