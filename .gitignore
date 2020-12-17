@@ -1,6 +1,7 @@
 # User-specific stuff
 .idea/
 
+YaRecipeManager.iml
 *.iml
 *.ipr
 *.iws
