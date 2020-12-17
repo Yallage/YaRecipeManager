@@ -7,3 +7,12 @@ load: STARTUP
 authors: [Hanbings]
 description: YaRecipeManager
 website: blog.nanokylin.com
+commands:
+  yrm:
+    description: §2 /yrm help view helper
+    permission: yarecipemanager.admin
+    permission-message: §4 权限不足 请联系管理员
+permissions:
+  yarecipemanager.admin:
+    description: 基本权限节点
+    default: op
